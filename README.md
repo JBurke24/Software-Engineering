@@ -8,6 +8,16 @@ This code, once applied on a machine, can be ran using localhost, and will give 
 
 ![Capture](https://github.com/user-attachments/assets/3e7243d7-a84e-45dc-afa4-76413224724e)
 
+
+While this application does not use a file system, it uses a:
+MVC
+Directed Controller
+API utilization
+AI utilization
+Index HTML
+Application Controller (to initialize webpage)
+
+
 In order for this application to work correctly, we had to implement a controller in order to launch our Gemini AI, as well as the MVC in total, to allow for the webpage to correctly output the information being taken from the API.
 
 In order to work correctly, our Controller needed to be in this configuration to implement all aspects of our webpage.
