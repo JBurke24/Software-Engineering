@@ -79,5 +79,12 @@ public class WeatherController {
 }
 ```
 
+Expected Results
+<img width="1710" alt="Screenshot 2024-12-02 at 9 27 39 PM" src="https://github.com/user-attachments/assets/8689496e-a852-4e88-be98-23d274154637">
+
+<img width="1710" alt="Screenshot 2024-12-02 at 9 28 56 PM" src="https://github.com/user-attachments/assets/7e0e8dd4-961e-4711-a408-be3f4a1ba598">
+
+
+
 
 
