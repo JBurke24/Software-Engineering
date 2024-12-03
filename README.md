@@ -10,11 +10,11 @@ This code, once applied on a machine, can be ran using localhost, and will give 
 
 
 While this application does not use a file system, it uses a:
-MVC
-Directed Controller
-API utilization
-AI utilization
-Index HTML
+MVC,
+Directed Controller,
+API utilization,
+AI utilization,
+Index HTML,
 Application Controller (to initialize webpage)
 
 
